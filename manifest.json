@@ -1,0 +1,11 @@
+{
+    "name": "Five In A Row Game",
+    "version": "1.0.0",
+    "description": "A great game to play daily with friends",
+    "manifest_version": 3,
+    "author": "Yaya (Jinya Jiang)",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Five In A Row Game"
+    }
+}
